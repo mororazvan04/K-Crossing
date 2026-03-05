@@ -1,6 +1,7 @@
 # 🏁 K-CROSSING | Modern Streetwear Platform
 
 <p align="center">
+  <img width="733" height="341" alt="Screenshot_2026-03-05_at_23 02 12-removebg-preview" src="https://github.com/user-attachments/assets/1bb5d0af-dfbc-4db9-b89c-28b96b136b84" />
 </p>
 
 ## ⚡ CONCEPT
