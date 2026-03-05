@@ -25,7 +25,7 @@
 * **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 * **Animații:** [Framer Motion](https://www.framer.com/motion/)
 * **Icons:** [Lucide React](https://lucide.dev/)
-* **Backend Services:** EmailJS (Support), Stripe (Payments)
+* **Backend Services:** EmailJS (Support)
 * **Hosting:** [Vercel](https://vercel.com/)
 
 ---
