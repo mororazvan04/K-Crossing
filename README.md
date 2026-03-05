@@ -32,6 +32,7 @@
 
 ## 📷 SCREENSHOTS
 <img width="640" height="480" alt="Screenshot 2026-03-05 at 23 04 10" src="https://github.com/user-attachments/assets/aed04317-0e25-407f-b39b-451f05dd17f3" />
+<img width="640" height="480" alt="Screenshot 2026-03-05 at 23 08 02" src="https://github.com/user-attachments/assets/9ef07d3d-9651-4be9-8061-9c6a771e2c9b" />
 <img width="640" height="480" alt="Screenshot 2026-03-05 at 23 04 18" src="https://github.com/user-attachments/assets/3e4c4b70-3fd9-4d4f-8703-aae3d4d3570e" />
 <img width="640" height="480" alt="Screenshot 2026-03-05 at 23 04 27" src="https://github.com/user-attachments/assets/c76d7f76-c3de-4012-83a5-ef5ded56bd40" />
 
