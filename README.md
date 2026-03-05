@@ -1,4 +1,4 @@
-# 🏁 K-CROSSING | Modern Streetwear Platform
+# K-CROSSING | Modern Streetwear Platform
 
 <p align="center">
   <img width="733" height="341" alt="Screenshot_2026-03-05_at_23 02 12-removebg-preview" src="https://github.com/user-attachments/assets/1bb5d0af-dfbc-4db9-b89c-28b96b136b84" />
@@ -27,4 +27,13 @@
 * **Icons:** [Lucide React](https://lucide.dev/)
 * **Backend Services:** EmailJS (Support), Stripe (Payments)
 * **Hosting:** [Vercel](https://vercel.com/)
+
+---
+
+## 📷 SCREENSHOTS
+<img width="640" height="480" alt="Screenshot 2026-03-05 at 23 04 10" src="https://github.com/user-attachments/assets/aed04317-0e25-407f-b39b-451f05dd17f3" />
+<img width="640" height="480" alt="Screenshot 2026-03-05 at 23 04 18" src="https://github.com/user-attachments/assets/3e4c4b70-3fd9-4d4f-8703-aae3d4d3570e" />
+<img width="640" height="480" alt="Screenshot 2026-03-05 at 23 04 27" src="https://github.com/user-attachments/assets/c76d7f76-c3de-4012-83a5-ef5ded56bd40" />
+
+  
 
